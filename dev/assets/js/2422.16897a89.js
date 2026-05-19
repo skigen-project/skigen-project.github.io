@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[2422],{52422(e,s,a){a.d(s,{createRadarServices:()=>i.f});var i=a(12480);a(72519)}}]);
