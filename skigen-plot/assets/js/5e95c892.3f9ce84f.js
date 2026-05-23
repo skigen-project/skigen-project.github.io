@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkskigen_plot_website=globalThis.webpackChunkskigen_plot_website||[]).push([[9647],{7121(e,s,r){r.r(s),r.d(s,{default:()=>c});r(6540);var t=r(4164),a=r(7559),i=r(5500),l=r(2831),n=r(5048),u=r(4848);function c(e){return(0,u.jsx)(i.e3,{className:(0,t.A)(a.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,l.v)(e.route.routes)})})}}}]);
