@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[4821],{94821(e,s,i){i.d(s,{createGitGraphServices:()=>a.b});var a=i(24187);i(72519)}}]);
