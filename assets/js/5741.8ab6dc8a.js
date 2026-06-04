@@ -1,1 +1,0 @@
-(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[5741],{5741(){}}]);

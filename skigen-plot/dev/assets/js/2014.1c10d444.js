@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_plot_website=globalThis.webpackChunkskigen_plot_website||[]).push([[2014],{2014(e,s,i){i.d(s,{createTreemapServices:()=>a.d});var a=i(1681);i(9302)}}]);

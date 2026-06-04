@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_plot_website=globalThis.webpackChunkskigen_plot_website||[]).push([[4737],{4737(e,s,i){i.d(s,{createPieServices:()=>t.f});var t=i(532);i(9302)}}]);

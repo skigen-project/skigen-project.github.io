@@ -1,1 +1,0 @@
-(globalThis.webpackChunkskigen_plot_website=globalThis.webpackChunkskigen_plot_website||[]).push([[5741],{5741(){}}]);
