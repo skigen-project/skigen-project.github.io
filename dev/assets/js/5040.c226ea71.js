@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[5040],{5040(e,s,i){i.d(s,{createEventModelingServices:()=>a.g});var a=i(3611);i(3409)}}]);

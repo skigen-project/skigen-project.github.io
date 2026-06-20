@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[4189],{4189(e,s,i){i.d(s,{createTreemapServices:()=>a.d});var a=i(5530);i(3409)}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkskigen_website=globalThis.webpackChunkskigen_website||[]).push([[5052],{5052(e,s,i){i.d(s,{createWardleyServices:()=>a.J});var a=i(2230);i(3409)}}]);
